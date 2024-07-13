@@ -21,7 +21,7 @@ K6, Nexus ,Checkov ,Prometheus, Grafana]
 - 💞️ I’m looking to collaborate 
 
 ## Get in Touch
-📫
+📫 Feel free to reach out if you want to collaborate on a project, have a question, or just want to connect!
 - LinkedIn: [https://www.linkedin.com/in/rawaâ-ben-hadj-amor-79a8a219b/](Link)
 - Facebook : [](Link)
 
@@ -31,7 +31,7 @@ K6, Nexus ,Checkov ,Prometheus, Grafana]
 ## Visitors
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Raoua-blh.Raoua-blh)
 
-Feel free to reach out if you want to collaborate on a project, have a question, or just want to connect!
+
 
 
 
