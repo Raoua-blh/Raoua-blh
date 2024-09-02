@@ -3,7 +3,7 @@
 ## About Me
 👀
 I'm passionate about Cloud & DevSecOps, and I enjoy playing Video games. 
-Currently, I'm a DevSecOps Intern .
+Currently, I'm a DevOps Engineer at Fenleap .
 
 ## Skills
 🌱
