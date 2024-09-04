@@ -3,7 +3,8 @@
 ## About Me
 👀
 I'm passionate about Cloud & DevSecOps, and I enjoy playing Video games. 
-Currently, I'm a DevOps Engineer at Fenleap .
+
+- 🔭 Currently, I'm a DevOps Engineer at Fenleap .
 
 ## Skills
 🌱
@@ -23,10 +24,11 @@ K6, Nexus ,Checkov ,Prometheus, Grafana]
 ## Get in Touch
 📫 Feel free to reach out if you want to collaborate on a project, have a question, or just want to connect!
 - LinkedIn: [https://www.linkedin.com/in/rawaâ-ben-hadj-amor-79a8a219b/](Link)
-- Facebook : [](Link)
-
+- Xing: [https://www.xing.com/profile/Rawaa_Benhadjamor](Link)
+  
 ## Fun Fact :
-⚡ ...........
+
+⚡ 
 
 ## Visitors
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Raoua-blh.Raoua-blh)
